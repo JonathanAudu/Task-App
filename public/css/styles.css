@@ -1,0 +1,28 @@
+body {
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.body-container {
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.form-row {
+    margin-bottom: 10px;
+}
+
+.sortable-list {
+    padding-left: 0;
+}
+
+.sortable-item {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    margin-bottom: 10px;
+}
